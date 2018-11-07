@@ -2,12 +2,12 @@ import firebase from "firebase";
 
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyAosAXgYt-gniqc-LLgZLy-bWTI4lAnGqM",
-  authDomain: "react-todoapp-124be.firebaseapp.com",
-  databaseURL: "https://react-todoapp-124be.firebaseio.com",
-  projectId: "react-todoapp-124be",
-  storageBucket: "react-todoapp-124be.appspot.com",
-  messagingSenderId: "555425814855"
+  apiKey: "AIzaSyAQmjfwcVnss2zfnZRSKRb5hk193UkAtfk",
+  authDomain: "photoviewr.firebaseapp.com",
+  databaseURL: "https://photoviewr.firebaseio.com",
+  projectId: "photoviewr",
+  storageBucket: "photoviewr.appspot.com",
+  messagingSenderId: "915596952209"
 };
 firebase.initializeApp(config);
 
